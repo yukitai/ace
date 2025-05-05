@@ -1,0 +1,8 @@
+@font-face {
+  font-family: ChineseFont;
+  src: url(/fonts/No.384-ShangShouTuanYuanTi-2.ttf) format("truetype");
+}
+
+text {
+  font-family: monospace, ChineseFont;
+}
